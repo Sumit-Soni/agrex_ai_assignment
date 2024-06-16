@@ -11,6 +11,7 @@ for notes on deploying the project on a live system.
 
 Requirements for the software and other tools to build, test and push 
 - Python
+- BeautifulSoup
 - SQLAlchemy
 - PostgreSQL - In case you want to use PostgreSQL database 
 
