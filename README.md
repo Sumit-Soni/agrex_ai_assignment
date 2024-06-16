@@ -35,5 +35,5 @@ After successfully installing the requirements, Run the FastAPI server
     python agrex.py
 
 ## To Do
-- Concurrency handling
+- Concurrency handling - Can be done using Locks
 - Test file (However piece of unit testing is done in main function)
