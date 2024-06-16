@@ -44,7 +44,7 @@ def extract (soup: BeautifulSoup):
 
         url = item.find("a", href=True)
         if url is not None:
-            url = url["href"]
+            url = "https://www.amazon.in" + url["href"]
         else:
             url = ""
 
